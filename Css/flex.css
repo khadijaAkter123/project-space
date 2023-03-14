@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    font-size: 21px;
+   
+}
+h1{
+    font-size: 48px;
+}
+h2{
+    font-size: 36px;
+}
+h3{
+    font-size: 28px;
+}
+header{
+    background-color: lightyellow;
+    color: black;
+    text-align: center;
+}
+.intro{
+    width: 700px;
+    margin: 0 auto;
+    text-align: center;
+    color: azure;
+    background-color: black;
+}
+.my-skills{
+    background-color: dimgray;
+    color: black;
+    
+}
+.columns{
+    width: 750px;
+    display: flex;
+    text-align: center;
+    margin: 0 auto;
+
+}
+.column{
+    background-color: lavender;
+    margin: 5px;
+    padding-bottom: 5px;
+}
+
